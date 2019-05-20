@@ -1,0 +1,6 @@
+[0515/230644.442:ERROR:crash_report_database_win.cc(547)] GetFileAttributes C:\Users\User\AppData\Local\Google\Chrome\User Data\Crashpad\reports: Access is denied. (0x5)
+[0515/230644.448:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0515/230644.449:ERROR:crash_report_database_win.cc(547)] GetFileAttributes C:\Users\User\AppData\Local\Google\Chrome\User Data\Crashpad\reports: Access is denied. (0x5)
+[0516/123024.455:ERROR:crash_report_database_win.cc(547)] GetFileAttributes C:\Users\User\AppData\Local\Google\Chrome\User Data\Crashpad\reports: Access is denied. (0x5)
+[0516/123024.462:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0516/123024.464:ERROR:crash_report_database_win.cc(547)] GetFileAttributes C:\Users\User\AppData\Local\Google\Chrome\User Data\Crashpad\reports: Access is denied. (0x5)
